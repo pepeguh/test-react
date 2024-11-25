@@ -1,1 +1,1 @@
-Деплой - (test-react-xi-blond.vercel.app)
+Деплой - test-react-xi-blond.vercel.app
